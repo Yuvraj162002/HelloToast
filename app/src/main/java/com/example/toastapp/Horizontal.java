@@ -19,6 +19,7 @@ public class Horizontal extends AppCompatActivity {
               ///Initiliaze the Activity Binding..
         b = ActivityMainBinding.inflate(getLayoutInflater());
         setContentView(b.getRoot());
+              //hkc
     }
 ///Create Toast
     public void TOAST(View view) {
